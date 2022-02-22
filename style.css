@@ -104,7 +104,7 @@ header i{
     border: 1px solid white;
 }
 
-#portfolio{
+#portfolio, #contact-me h1{
     text-align: center;
 }
 
