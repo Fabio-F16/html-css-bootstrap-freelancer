@@ -1,0 +1,103 @@
+.ff-flex{
+    display: flex;
+}
+
+
+
+.ff-margin-top-10{
+    margin-top: 10%;
+}
+
+.ff-margin-top-5{
+    margin-top: 5%;
+}
+
+
+
+.width-150{
+    width: 150px;
+}
+
+.width-25{
+    width: 25%;
+}
+
+
+
+
+
+
+.height-100{
+    height: 100px;
+}
+
+.height-300{
+    height: 300px;
+}
+
+
+
+
+
+
+
+.bg-blue{
+    background-color: blue;
+}
+
+.bg-green{
+    background-color: green;
+}
+
+
+
+
+
+
+
+header i{
+    margin-bottom: 0.5rem;
+}
+
+#start-bootstrap{
+    text-align: center;
+    padding-bottom: 10px;
+    color: white;
+}
+
+#start-bootstrap .container-xl > *{
+    margin-top: 10px;
+    
+}
+
+.line{
+    margin: 0px 10px;
+    width: 15%;
+}
+
+#start-bootstrap .line{
+    border: 1px solid white;
+}
+
+#portfolio{
+    text-align: center;
+}
+
+#portfolio .line{
+    border: 1px solid black;
+}
+
+#portfolio img{
+    margin-bottom: 20px;
+}
+
+
+
+/* #start-bootstrap .ff-flex{
+    flex-shrink: 0;
+
+} */
+
+
+
+
