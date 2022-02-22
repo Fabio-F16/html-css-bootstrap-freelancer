@@ -74,6 +74,23 @@
 
 
 
+.text > *{
+    text-align: center;
+    color: white;
+    padding: 20px 0px;
+}
+
+.text p{
+    margin-bottom: 0px;
+}
+
+.text i{
+    border: 1px solid white;
+    border-radius: 50%;
+    padding: 1% 1%;
+}
+
+
 
 
 header{
@@ -99,18 +116,22 @@ header i{
     margin: 0px 10px;
     width: 15%;
     height: 1px;
+    border-radius: 15px;
 }
 
 #start-bootstrap .line, #about .line{
     border: 1px solid white;
-}
-
-#portfolio, #contact-me h1{
-    text-align: center;
+    background-color: white;
 }
 
 #portfolio .line, #contact-me .line{
     border: 1px solid black;
+    background-color: black;
+}
+
+
+#portfolio, #contact-me h1{
+    text-align: center;
 }
 
 #portfolio img{
@@ -119,11 +140,6 @@ header i{
 
 #about .container-sm .row{
     text-align: left;
-}
-
-.top-footer .col-12{
-    border-left: 1px solid white;
-    border-right: 1px solid white;
 }
 
 
