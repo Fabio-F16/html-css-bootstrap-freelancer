@@ -1,6 +1,6 @@
-[class*="col"] {
+/* [class*="col"] {
     border: 1px dashed red;
-}
+} */
 
 .ff-flex{
     display: flex;
@@ -101,14 +101,6 @@ nav{
     display: none;
 }
 
-
-
-#start-bootstrap, #about{
-    text-align: center;
-    padding: 10px 0px;
-    color: white;
-}
-
 #start-bootstrap .container-xl > *{
     margin-top: 10px;
     
@@ -144,10 +136,15 @@ nav{
     text-align: left; 
 }
 
+.btn-primary{
+
+}
+
 
 .top-footer .text p{
     margin-bottom: 0px;
 }
+
 .top-footer .text i{
     border-radius: 50%;
     width: 40px;
@@ -157,10 +154,3 @@ nav{
     margin: 0 0.25rem;
     border: 1px solid white;
 }
-
-/* .top-footer .container .col-12{
-    padding-bottom: 25px;
-} */
-
-
-
